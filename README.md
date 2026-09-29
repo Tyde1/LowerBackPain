@@ -22,7 +22,7 @@ This is an exploratory machine learning project intended to practice model devel
 
 ## Dataset
 
-The dataset used comes from Kaggle's [Lower Back Pain Symptoms Dataset]([https://www.kaggle.com/datasets/sammy123/lower-back-pain-symptoms-dataset](https://www.kaggle.com/datasets/sammy123/lower-back-pain-symptoms-dataset)). It contains 310 observations (210 - Abnormal, 100 - Normal) and 12 numerical predictors, including pelvic incidence, pelvic tilt, lumbar lordosis angle, and sacral slope. The model uses all 12 features in the dataset and classifies patient spine records as either Abnormal or Normal.
+The dataset used comes from Kaggle's [Lower Back Pain Symptoms Dataset](https://www.kaggle.com/datasets/sammy123/lower-back-pain-symptoms-dataset). It contains 310 observations (210 - Abnormal, 100 - Normal) and 12 numerical predictors, including pelvic incidence, pelvic tilt, lumbar lordosis angle, and sacral slope. The model uses all 12 features in the dataset and classifies patient spine records as either Abnormal or Normal.
 
 ## Methods:
 
