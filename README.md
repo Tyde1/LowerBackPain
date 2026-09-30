@@ -73,4 +73,4 @@ The dataset is limited to only 310 observations. Additionally, this model was ev
 
 - Evaluate the models on a larger, independent dataset with comparable spine measurements.
 - Test how stable the results are across different train/test splits.
-- Explore ways to improve performance on the Normal class, using per-class recall and F1 score to judge whether they help. anything you think could just help improve the visual layout a bit
+- Explore ways to improve performance on the Normal class, using per-class recall and F1 score to judge whether they help. 
